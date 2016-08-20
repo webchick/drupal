@@ -4,7 +4,7 @@ CONTENTS OF THIS FILE
 
  * Requirements and notes
  * Optional server requirements
- * Installation
+ * Installationsdsdf
  * Reinstall
  * Building and customizing your site
  * Multisite configuration
