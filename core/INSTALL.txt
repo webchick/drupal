@@ -402,6 +402,10 @@ To use site-specific modules or themes, simply create a 'modules' or 'themes'
 directory within the site configuration directory. For example, if
 sub.example.com has a custom theme and a custom module that should not be
 accessible to other sites, the setup would look like this:
+asdasd
+asd
+asd
+asd
 
   sites/sub.example.com/
     settings.php
